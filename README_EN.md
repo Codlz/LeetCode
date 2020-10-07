@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-f1-driver-majia-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-20/1822-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-21/1822-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-5-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-13-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-14-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-2-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2020-10-07 13:05:21</b>
+    <b>Last updated: 2020-10-07 20:40:04</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -29,12 +29,13 @@
 |剑指 Offer 29|[顺时针打印矩阵  LCOF](Problemset/shun-shi-zhen-da-yin-ju-zhen-lcof/README_EN.md)|[C++](Problemset/shun-shi-zhen-da-yin-ju-zhen-lcof/shun-shi-zhen-da-yin-ju-zhen-lcof.cpp)|44.5%|easy|[Array](https://leetcode-cn.com/tag/array)|
 |剑指 Offer 26|[树的子结构  LCOF](Problemset/shu-de-zi-jie-gou-lcof/README_EN.md)|[C++](Problemset/shu-de-zi-jie-gou-lcof/shu-de-zi-jie-gou-lcof.cpp)|46.0%|medium|[Tree](https://leetcode-cn.com/tag/tree)|
 |剑指 Offer 07|[重建二叉树 LCOF](Problemset/zhong-jian-er-cha-shu-lcof/README_EN.md)|[C++](Problemset/zhong-jian-er-cha-shu-lcof/zhong-jian-er-cha-shu-lcof.cpp)|68.8%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Recursion](https://leetcode-cn.com/tag/recursion)|
-|1466|[Reorder Routes to Make All Paths Lead to the City Zero](Problemset/reorder-routes-to-make-all-paths-lead-to-the-city-zero/README_EN.md)|[C++](Problemset/reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp)|48.8%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
-|834|[Sum of Distances in Tree](Problemset/sum-of-distances-in-tree/README_EN.md)|[C++](Problemset/sum-of-distances-in-tree/sum-of-distances-in-tree.cpp)|53.7%|hard|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
+|1466|[Reorder Routes to Make All Paths Lead to the City Zero](Problemset/reorder-routes-to-make-all-paths-lead-to-the-city-zero/README_EN.md)|[C++](Problemset/reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp)|48.7%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
+|834|[Sum of Distances in Tree](Problemset/sum-of-distances-in-tree/README_EN.md)|[C++](Problemset/sum-of-distances-in-tree/sum-of-distances-in-tree.cpp)|53.5%|hard|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)|
+|684|[Redundant Connection](Problemset/redundant-connection/README_EN.md)|[C++](Problemset/redundant-connection/redundant-connection.cpp)|61.4%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Union Find](https://leetcode-cn.com/tag/union-find)<br>[Graph](https://leetcode-cn.com/tag/graph)|
 |376|[Wiggle Subsequence](Problemset/wiggle-subsequence/README_EN.md)|[C++](Problemset/wiggle-subsequence/wiggle-subsequence.cpp)|42.5%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |189|[Rotate Array](Problemset/rotate-array/README_EN.md)|[C++](Problemset/rotate-array/rotate-array.cpp)|43.2%|easy|[Array](https://leetcode-cn.com/tag/array)|
 |78|[Subsets](Problemset/subsets/README_EN.md)❤️|[C++](Problemset/subsets/subsets.cpp)|79.1%|medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)<br>[Array](https://leetcode-cn.com/tag/array)<br>[Backtracking](https://leetcode-cn.com/tag/backtracking)|
-|75|[Sort Colors](Problemset/sort-colors/README_EN.md)|[C++](Problemset/sort-colors/sort-colors.cpp)|56.0%|medium|[Sort](https://leetcode-cn.com/tag/sort)<br>[Array](https://leetcode-cn.com/tag/array)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)|
+|75|[Sort Colors](Problemset/sort-colors/README_EN.md)|[C++](Problemset/sort-colors/sort-colors.cpp)<br>[C++](Problemset/sort-colors/sort-colors.cpp)|56.4%|medium|[Sort](https://leetcode-cn.com/tag/sort)<br>[Array](https://leetcode-cn.com/tag/array)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)|
 |71|[Simplify Path](Problemset/simplify-path/README_EN.md)|[C++](Problemset/simplify-path/simplify-path.cpp)|40.8%|medium|[Stack](https://leetcode-cn.com/tag/stack)<br>[String](https://leetcode-cn.com/tag/string)|
 |51|[N-Queens](Problemset/n-queens/README_EN.md)|[C++](Problemset/n-queens/n-queens.cpp)|73.2%|hard|[Backtracking](https://leetcode-cn.com/tag/backtracking)|
 |33|[Search in Rotated Sorted Array](Problemset/search-in-rotated-sorted-array/README_EN.md)|[C++](Problemset/search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp)|39.1%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Binary Search](https://leetcode-cn.com/tag/binary-search)|
